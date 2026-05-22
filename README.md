@@ -6,10 +6,10 @@
 npm install
 ## Step 2: Start the Project
 
-# For most React/Vite projects:
+### For most React/Vite projects:
 
 npm run dev
 
-# If that does not work, try:
+### If that does not work, try:
 
 npm start
